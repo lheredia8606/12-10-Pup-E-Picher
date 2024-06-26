@@ -11,7 +11,7 @@ export function FunctionalApp() {
 
   /*
     dont see the point for these function, I will ask about this on saturday, if I use
-    the addDog, (CRUD in general) in more than 1 class then make sense to me :)
+    the addDog, (all CRUD functions in general) in more than 1 component then make sense to me :)
   */
   const addDog = () => {};
 
